@@ -1,0 +1,36 @@
+/* .container{
+	padding-top: 5%;
+} */
+
+.jumbotron{
+	/*padding: 1%;*/
+	background-color: #5cb85c;
+	color: #ffffff;
+}
+
+#charactersmovie{
+	padding: 3%;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+#addCharacterLabel {
+	color: white;
+
+}
+.movieButtons {
+	margin: 5px;
+}
+.rating{
+	font-size: 25px;
+	color: white;
+}
+.charactergif {
+	
+	margin: 10px;
+	
+}
+
+div{
+	margin-bottom: 2%;
+}
