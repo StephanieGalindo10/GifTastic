@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	var moviecharacters = ["Harry Potter", "Hermione Granger", "Ron Weasley ", "Draco Malfoy", "Professor Severus Snape", "Professor Albus Dumbledore", "Luna Lovegood"];
+	var moviecharacters = ["Pikachu", "Eevee", "Charizard", " lucario", "bulbasaur", "Squirtle", "Gengar"];
 
 	// Add buttons for original movies array
 	function renderButtons() {
