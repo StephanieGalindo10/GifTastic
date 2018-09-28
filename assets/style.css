@@ -1,10 +1,13 @@
 /* .container{
 	padding-top: 5%;
 } */
+body{
+	background:url("images/648624.jpg")
+}
 
 .jumbotron{
 	/*padding: 1%;*/
-	background-color: #5cb85c;
+	background-color:darkred;
 	color: #ffffff;
 }
 
@@ -15,7 +18,7 @@
 	
 }
 #addCharacterLabel {
-	color: white;
+	color: darkblue;
 
 }
 .movieButtons {
@@ -23,7 +26,7 @@
 }
 .rating{
 	font-size: 25px;
-	color: white;
+	color:black;
 }
 .charactergif {
 	
