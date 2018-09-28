@@ -5,10 +5,10 @@ body{
 	background:url("images/648624.jpg")
 }
 
-.jumbotron{
-	/*padding: 1%;*/
-	background-color: darkred;
-	color: #ffffff;
+.jumbotron {
+    background-image:url(http://heroimages.s3.amazonaws.com/PokemonSM-RHero.jpg);
+    height:290px;
+    width:1145px;
 }
 
 #charactersmovie{
