@@ -8,7 +8,8 @@ body{
 .jumbotron {
     background-image:url(http://heroimages.s3.amazonaws.com/PokemonSM-RHero.jpg);
     height:290px;
-    width:1145px;
+	width:1145px;
+
 }
 
 #charactersmovie{
@@ -18,9 +19,9 @@ body{
 	
 	
 }
-
-#h1{
+#pokemon{
 	color: aliceblue;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 #addCharacterLabel {
 	color:darkblue;
