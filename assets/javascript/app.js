@@ -1,15 +1,3 @@
-$(document).ready(function(){
-    setTimeout(function(){
-              $("#pop-out").show();     
-       },2000);
-
-    $("button.ok").click(function(){
-        $("#pop-out").hide();
-    });
-});
-
-
-
 $(document).ready(function () {
 	var moviecharacters = ["Pikachu", "Eevee", "Charizard", " lucario", "bulbasaur", "Squirtle", "Gengar"];
 
