@@ -2,8 +2,17 @@
 	padding-top: 5%;
 } */
 body{
-	background:url("images/648624.jpg")
+	background-image:url("https://wallpapercave.com/wp/wp2711114.gif");
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
+
+
+
+	  
+
 
 .jumbotron {
     background-image:url(http://heroimages.s3.amazonaws.com/PokemonSM-RHero.jpg);
@@ -46,4 +55,21 @@ body{
 
 div{
 	margin-bottom: 2%;
+}
+
+.footer {
+ 
+	position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 30px;
+  width: 100%;
+  
+  color: rgb(48, 3, 3);
+  text-align: center;
+  background-color:rgb(124, 92, 45);
+  opacity: 0.9;
+  filter: alpha(opacity=50);
+  margin: 0%;
 }

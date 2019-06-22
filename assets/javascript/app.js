@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	var moviecharacters = ["Pikachu", "Eevee", "Charizard", " lucario", "bulbasaur", "Squirtle", "Gengar"];
+	var moviecharacters = [ "Eevee", "Charizard", " lucario", "bulbasaur", "Squirtle", "Meowth"];
 
 	// Add buttons for original movies array
 	function renderButtons() {
