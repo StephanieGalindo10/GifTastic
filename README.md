@@ -1,6 +1,8 @@
 # GifTastic
 Homework#6
 
+LINK: https://stephaniegalindo10.github.io/GifTastic/.
+
 Inorder to complete this project I wanted to create a pokemon theme where the audience can choose their pokemon.
 
 I used 
