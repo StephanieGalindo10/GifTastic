@@ -11,11 +11,12 @@ body{
 
 
 
-	  
 
 
 .jumbotron {
-    background-image:url(http://heroimages.s3.amazonaws.com/PokemonSM-RHero.jpg);
+	background-image:url(https://images.unsplash.com/photo-1441422454217-519d3ee81350?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80);
+	opacity: 0.5;
+  filter: alpha(opacity=50);
     height:290px;
 	width:1145px;
 
@@ -33,7 +34,7 @@ body{
 	font-size: 25px;
 }
 #pokemon{
-	color: aliceblue;
+	color: rgb(0, 25, 48);
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 #addCharacterLabel {
